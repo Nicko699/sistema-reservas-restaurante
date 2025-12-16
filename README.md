@@ -86,6 +86,3 @@ El sistema implementa hasheo seguro de contraseñas utilizando:
 mvn clean install -U
 ```
 
----
-
-**Nota**: Este es un proyecto educativo. Para uso en producción, considerar implementar validaciones adicionales, manejo de excepciones robusto y pruebas unitarias.
