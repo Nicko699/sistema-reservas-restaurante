@@ -53,7 +53,7 @@ Aplicación de escritorio que permite gestionar reservas de mesas en un restaura
 1. Clonar el repositorio:
 ```bash
 git clone [url-del-repositorio]
-cd Restaurant
+cd sistema-reservas-restaurante
 ```
 
 2. Compilar el proyecto con Maven:
