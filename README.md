@@ -85,4 +85,11 @@ El sistema implementa hasheo seguro de contraseñas utilizando:
 ```bash
 mvn clean install -U
 ```
+## 📄 Licencia
 
+Copyright (c) 2025 Nicko699
+
+Este trabajo está bajo la licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+
+Se permite copiar, modificar y distribuir el software, **siempre que no sea para fines comerciales**.  
+Las modificaciones deben ser compartidas bajo esta misma licencia.  
